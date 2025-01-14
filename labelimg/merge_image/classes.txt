@@ -1,0 +1,6 @@
+A portrait photo with a red background in the same position as the right half but with a different color
+A portrait photo with a blue background in the same position as the left half but with a different color
+The red background in the same position as the right half but with a different color
+The blue background in the same position as the left half but with a different color
+The red login button in the same position as the right half but in a different color
+The blue login button in the same position as the left half but in a different color
