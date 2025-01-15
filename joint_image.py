@@ -18,4 +18,4 @@ result.paste(image1, (0, 0))
 result.paste(image2, (width1, 0))
 
 # 保存结果
-result.save('merged_image.jpg')
+result.save('joint_image.jpg')

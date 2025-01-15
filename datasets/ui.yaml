@@ -3,9 +3,10 @@ train: images/train # train images (relative to 'path')
 val: images/val # val images (relative to 'path')
 
 names:
-  0: A portrait photo with a red background in the same position as the right half but with a different color
-  1: A portrait photo with a blue background in the same position as the left half but with a different color
-  2: The red background in the same position as the right half but with a different color
-  3: The blue background in the same position as the left half but with a different color
-  4: The red login button in the same position as the right half but in a different color
-  5: The blue login button in the same position as the left half but in a different color
+  0: portrait photo
+  1: red
+  2: blue
+  3: local background
+  4: button
+  5: element in figure 1
+  6: element in figure 2
